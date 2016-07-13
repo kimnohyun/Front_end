@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e79e42e-7883-4e71-80bd-bd45e150d341" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/p3(베라).html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/css/property.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/css/property.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/css/theory.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/html/practice/p2.html" afterPath="$PROJECT_DIR$/class/html/practice/p2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/html/practice/p3(베라).html" afterPath="$PROJECT_DIR$/class/html/practice/p3(베라).html" />
     </list>
     <ignored path="front_end_ local.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +22,7 @@
     <favorites_list name="front_end_ local" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5031766">
+    <splitter split-orientation="horizontal" split-proportion="0.83545107">
       <split-first>
         <leaf>
           <file leaf-file-name="property.css" pinned="false" current-in-tab="false">
@@ -43,8 +38,8 @@
           <file leaf-file-name="p3(베라).html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/html/practice/p3(베라).html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8080808">
-                  <caret line="137" column="3" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
+                <state vertical-scroll-proportion="0.59483725">
+                  <caret line="191" column="7" selection-start-line="191" selection-start-column="7" selection-end-line="191" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -514,8 +509,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/p3(베라).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8080808">
-          <caret line="137" column="3" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.59483725">
+          <caret line="191" column="7" selection-start-line="191" selection-start-column="7" selection-end-line="191" selection-end-column="7" />
           <folding />
         </state>
       </provider>
